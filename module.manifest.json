@@ -1,0 +1,14 @@
+{
+  "moduleId": "webwaka-core-experiments-analytics",
+  "name": "WebWaka Core Experiments Analytics",
+  "version": "0.1.0",
+  "class": "core",
+  "description": "A/B testing, experiments, and analytics",
+  "capabilities": [],
+  "dependencies": [],
+  "metadata": {
+    "author": "ChangerPlanet",
+    "license": "Proprietary",
+    "repository": "https://github.com/changerplanet/webwaka-core-experiments-analytics"
+  }
+}
